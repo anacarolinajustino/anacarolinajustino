@@ -1,16 +1,24 @@
-## Hi there 👋
+Hi there, it's Carol Justino here 👋
 
-<!--
-**anacarolinajustino/anacarolinajustino** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🤩 QA Engineer in construction
+- 🔭 I’m currently working on manual testing, agile testing, bdd, kanban
+- 🌱 I’m currently learning Codeceptjs, Robot, Python and others
+- 📚 My hobby is to read, like, a lot.
 
-Here are some ideas to get you started:
+>Tudo quanto te vier à mão para fazer, faça de todo coração, como para o **Senhor** e não aos homens.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+_______________________________________________________________________________________________
+
+<div style="display: inline_block>
+           <img align="center" height="30" widht="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/confluence/confluence-original.svg">
+           <img align="center" height="30" widht="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cucumber/cucumber-plain.svg">
+           <img align="center" height="30" widht="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg">
+           <img align="center" height="30" widht="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg">
+           <img align="center" height="30" widht="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg">
+           <img align="center" height="30" widht="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg">
+          <img align="center" height="30" widht="40" src="https://img.icons8.com/color/256/amazon-web-services.png">
+          <img align="center" height="30" widht="40" src="https://pics.freeicons.io/uploads/icons/png/2832550721536125460-512.png">
+         <img align="center" height="30" widht="40" src="https://cdn.icon-icons.com/icons2/2148/PNG/512/robotframework_icon_132027.png">
+        </div>    
+
+       
